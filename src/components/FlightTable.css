@@ -1,0 +1,50 @@
+
+
+
+.filterPaper {
+  padding: 16px; 
+  margin-bottom: 16px; 
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  gap: 16px; 
+  align-items: center;
+  flex-wrap: wrap; 
+  background-color: transparent;
+}
+
+.filterInput {
+  flex-grow: 1;
+  width: 35%; 
+}
+
+.filterStatusSelect {
+  flex-grow: 1;
+  width: 20%;
+}
+
+.errorBox {
+  padding: 16px; /* MUI spacing unit 2 * 8px */
+  background-color: #ffcdd2; 
+  color: #b71c1c;     
+  width: 90%;
+  max-width: 900px;
+  margin: 10px auto;
+}
+
+.tableDataContainer {
+  max-width: 90%;
+  margin: auto;
+}
+
+.tableHeader {
+  background-color: #f5f5f5;
+}
+
+.centeredStatusBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+} 
