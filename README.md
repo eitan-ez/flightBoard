@@ -73,6 +73,5 @@ The Flight Board application provides a simple interface to manage flight inform
 ### Deleting a Flight
 
 *   In each flight row, there is a **Delete** icon (trash can).
-*   Click this icon to remove the corresponding flight from the system. You will be prompted for confirmation before the flight is permanently deleted.
 
 ---
